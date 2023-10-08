@@ -21,7 +21,7 @@ We'd like to extend a heartfelt thank you to all the developers who have contrib
 ### 📝 How to Get Started?
 Getting started is a breeze:
 
- **😎 API Base URL:** `https://free-screenshot-api-code-7ri5ccvta.vercel.app/`
+ **😎 API Base URL:** `https://free-screenshot-api-code.vercel.app/`
 
 1. **📷 Capture a Screenshot:-**
 - **Endpoint:** `/`
