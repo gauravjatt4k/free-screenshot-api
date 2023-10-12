@@ -4,7 +4,7 @@ Getting started is a breeze:
 **😎 API Base URL:** `https://free-screenshot-api-code.vercel.app/`
 
 1. **📷 Capture a Screenshot:-**
-   - **Endpoint:** `/`
+   - **Endpoint:** `/screenshot`
    - **Method:** GET
    - **Description:** Capture a screenshot of a web page.
    - **Query Parameters:**
