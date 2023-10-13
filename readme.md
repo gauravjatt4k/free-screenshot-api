@@ -1,11 +1,11 @@
 
-### 📑
-Capture web page screenshots effortlessly with the Screenshot API. Simply provide the URL, choose a device simulation, and opt for full or visible area capture. Retrieve and integrate screenshots into your projects seamlessly. A user-friendly and efficient solution for web developers and applications. 📸✨
+### 📑 Description
+Capture web page screenshots effortlessly with the Screenshot API. Simply provide the URL, choose a device simulation, and opt for full or visible area capture. Retrieve and integrate screenshots into your projects seamlessly. A user-friendly and efficient solution for web developers and applications. 📸✨   
 
 ### 📝 How to Get Started?
 Getting started is a breeze:
 
-**😎 API Base URL:** `https://free-screenshot-api-code.vercel.app/`
+**😎 API Base URL:** `https://free-screenshot-api-code.vercel.app/`         
 
 1. **📷 Capture a Screenshot:-**
    - **Endpoint:** `/screenshot`
